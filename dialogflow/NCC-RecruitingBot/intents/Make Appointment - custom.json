@@ -1,0 +1,62 @@
+{
+  "id": "d91c14d2-4261-430b-94a0-8363973de07e",
+  "parentId": "81dfa908-da80-43fc-8c70-e71299d1dcc2",
+  "rootParentId": "81dfa908-da80-43fc-8c70-e71299d1dcc2",
+  "name": "Make Appointment - custom",
+  "auto": true,
+  "contexts": [
+    "MakeAppointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeAppointment.MakeAppointment-custom",
+      "affectedContexts": [
+        {
+          "name": "MakeAppointment-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed9e9b7c-b545-4d93-b548-0646077949c5",
+          "required": true,
+          "dataType": "@AppointmentType",
+          "name": "AppointmentType",
+          "value": "$AppointmentType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "NCC\u0027s fields are: Infrastructure, Building, Property Development, and Industry"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a28731c0-01bb-4161-a3ae-30821d9167ff",
+          "required": false,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay!\nWe’ll schedule an appointment with $AppointmentType.\nDate: #MakeAppointment-followup.date\nTime:  #MakeAppointment-followup.time. \n\nDo you have time to answer some more questions?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536914130,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "777b7851-bae2-42bf-a145-90b0e5cb1fb3",
+    "data": [
+      {
+        "text": "I want to work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536928523
+  },
+  {
+    "id": "4f752a02-ea11-424e-a8c5-32e9c2cbd87d",
+    "data": [
+      {
+        "text": "Do you hire people at the moment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536918974
+  },
+  {
+    "id": "3591daf7-3db1-4916-a60e-c38c5c2b3b37",
+    "data": [
+      {
+        "text": "Can I work here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536918974
+  },
+  {
+    "id": "f23fb378-8143-440f-8f1b-3ad9287b3df5",
+    "data": [
+      {
+        "text": "Is it possible to work with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536918974
+  },
+  {
+    "id": "caeb4271-7ff1-4abd-9b3f-29b769095dfa",
+    "data": [
+      {
+        "text": "Is there jobs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536918974
+  },
+  {
+    "id": "74fd9220-9925-4788-8ca1-2b1630eae014",
+    "data": [
+      {
+        "text": "Jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536913901
+  },
+  {
+    "id": "0a997d39-5207-4227-ae60-d3dab6e15ee0",
+    "data": [
+      {
+        "text": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536912801
+  },
+  {
+    "id": "0c139788-0f43-42f6-b403-fe98a9450840",
+    "data": [
+      {
+        "text": "Interview",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536913901
+  },
+  {
+    "id": "206b982a-7325-4385-a7f2-8cdff3a78a70",
+    "data": [
+      {
+        "text": "I wan\u0027t to work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536913901
+  },
+  {
+    "id": "d7032667-5d7e-448c-abb7-9766eac8d4b2",
+    "data": [
+      {
+        "text": "Are there any jobs available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536912910
+  },
+  {
+    "id": "640b4229-e68e-4322-a133-00c7e9494786",
+    "data": [
+      {
+        "text": "Do you have any work left?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536912910
+  },
+  {
+    "id": "367b57f2-ff7f-4738-88e8-3d84fcddd2ac",
+    "data": [
+      {
+        "text": "I\u0027m looking for a job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536912910
+  },
+  {
+    "id": "bf6e1424-ccce-42ca-9523-7f7f79f24a0a",
+    "data": [
+      {
+        "text": "Can I setup an appointment to ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my bike ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521826436
+  },
+  {
+    "id": "bb7d8e57-2105-40a4-8ee8-850aa8f956ae",
+    "data": [
+      {
+        "text": "Can you fix my ",
+        "userDefined": false
+      },
+      {
+        "text": "road bike",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504687471
+  },
+  {
+    "id": "77527d14-89b5-4ca2-a8c3-661fa43a80e2",
+    "data": [
+      {
+        "text": "Can I schedule service for ",
+        "userDefined": false
+      },
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496880186
+  },
+  {
+    "id": "bd2b43df-be70-4374-a01c-116ccdd010b6",
+    "data": [
+      {
+        "text": "My bike is broken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496880186
+  },
+  {
+    "id": "e3c76dd3-f0e7-40e5-9614-aed4c0f2eea6",
+    "data": [
+      {
+        "text": "I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain bike",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " that needs servicing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504687471
+  },
+  {
+    "id": "620a9858-87fe-4597-9f1b-9b27a7f85686",
+    "data": [
+      {
+        "text": "I\u0027d like to get my bike fixed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496880186
+  },
+  {
+    "id": "9881a8ae-86bf-49ad-919d-decd15effc09",
+    "data": [
+      {
+        "text": "I\u0027d like to schedule an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "next Thursday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536912801
+  }
+]

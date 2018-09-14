@@ -1,0 +1,58 @@
+[
+  {
+    "value": "Industry",
+    "synonyms": [
+      "Industry",
+      "Industries",
+      "Asphalt",
+      "Hercules",
+      "Stone",
+      "Material",
+      "Materials",
+      "Production"
+    ]
+  },
+  {
+    "value": "Buildings",
+    "synonyms": [
+      "Buildings",
+      "Houses",
+      "Building",
+      "Construction",
+      "Production",
+      "VDC",
+      "Build"
+    ]
+  },
+  {
+    "value": "Infrastructure",
+    "synonyms": [
+      "Infrastructure",
+      "Infrastructure",
+      "Roads",
+      "Road",
+      "Construction",
+      "Bridge",
+      "Bridges",
+      "Traffic",
+      "Railway",
+      "Railways",
+      "Mains",
+      "groundwork"
+    ]
+  },
+  {
+    "value": "Property Development",
+    "synonyms": [
+      "Property Development",
+      "Development",
+      "Properties",
+      "Property",
+      "Real Estate",
+      "Finance",
+      "Economy",
+      "Mangement",
+      "Business"
+    ]
+  }
+]

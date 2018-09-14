@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e713af25-b3f0-4a72-a54a-53ffacb06b90",
+    "data": [
+      {
+        "text": "When do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521825380
+  },
+  {
+    "id": "03745ba0-d2c9-47d1-8770-97444990b5b2",
+    "data": [
+      {
+        "text": "What are your hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521825380
+  },
+  {
+    "id": "a7f08fed-d3f5-44cc-b6af-c73ddbdc5788",
+    "data": [
+      {
+        "text": "How late are you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521825380
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "f4f09bf2-25db-438c-b72b-bcb8d5327548",
+  "name": "Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry, what did you mean?",
+            "Oh, excuse me. What did you mean?",
+            "Mm... I don\u0027t understand. Try typing that again.",
+            "What? I didn\u0027t get that.",
+            "Sorry, I didn\u0027t get that.",
+            "Mm.. Try rephrasing that."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536919997,
+  "fallbackIntent": true,
+  "events": []
+}

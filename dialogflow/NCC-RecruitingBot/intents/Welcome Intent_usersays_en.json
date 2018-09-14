@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f8df1cc7-f2ab-49f1-a9a7-f5afd822066c",
+    "data": [
+      {
+        "text": "Sup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536919158
+  },
+  {
+    "id": "0f5dbe2a-5011-47cf-b348-66f6b1e5cc46",
+    "data": [
+      {
+        "text": "Hi there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536919158
+  },
+  {
+    "id": "2c818bb9-8eb9-4a1f-b668-ad8f10037c5b",
+    "data": [
+      {
+        "text": "Helllo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536919158
+  },
+  {
+    "id": "9cd79f09-d043-4d61-b0b4-74806cfbf909",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521825574
+  },
+  {
+    "id": "9e5e41a7-2868-44b1-a05e-de73fe53d935",
+    "data": [
+      {
+        "text": "helo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536919158
+  },
+  {
+    "id": "2f512c4b-82f1-44f0-8932-69b8177dac34",
+    "data": [
+      {
+        "text": "Holla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536912556
+  },
+  {
+    "id": "39359096-80ce-40fe-a32f-ed6dca2474ab",
+    "data": [
+      {
+        "text": "Hejsan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536912556
+  },
+  {
+    "id": "ceaee20b-a192-4968-b351-64cc5a3c9b16",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536912556
+  },
+  {
+    "id": "4e89a6f8-581b-4872-baaa-beb98dd69192",
+    "data": [
+      {
+        "text": "hej",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536912556
+  }
+]
